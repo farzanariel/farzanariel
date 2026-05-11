@@ -1,27 +1,16 @@
 # Hi, I'm Ariel 👋
 
-I build tools that solve problems I keep running into — shipping logistics, e-commerce automation, points/miles travel, and small native utilities that make my own workflow faster.
+📍 **Los Angeles** | 🚢 **Founder, Nectan** | 🛠️ **Builds tools for problems I keep running into**
 
-Most of my work lives in TypeScript (Next.js + Supabase) with a soft spot for Swift on macOS.
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
----
+## Current Projects
 
-## 🛠️ What I'm working on
-
-### Public
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**GitPush**](https://github.com/farzanariel/GitPush) | Native macOS menu bar app for one-click `git commit && git push`. AI-generated commit messages, global hotkey, no terminal needed. | Swift |
-| [**inventory-checker**](https://github.com/farzanariel/inventory-checker) | Self-hosted Best Buy stock monitor with Discord webhook alerts. | Next.js, SQLite |
-| [**pointsyeah-api**](https://github.com/farzanariel/pointsyeah-api) | CLI for flight search — compares points/miles award availability against cash prices side by side. | TypeScript |
-| [**ups-invoice-consolidator**](https://github.com/farzanariel/ups-invoice-consolidator) | Merges duplicate UPS tracking rows in invoice exports into single-row records. | TypeScript |
-
----
-
-## 🧰 Stack I reach for
-
-**Frontend:** Next.js · TypeScript · React · Tailwind
-**Backend:** Supabase · Node.js · Python
-**Native:** Swift / SwiftUI · Electron
-**Infra:** Vercel (frontend) · Railway (backend)
+- 🚀 **[GitPush](https://github.com/farzanariel/GitPush)** — One-click commit & push from the macOS menu bar, AI-written messages
+- 📦 **[inventory-checker](https://github.com/farzanariel/inventory-checker)** — Self-hosted Best Buy stock monitor with Discord alerts
+- ✈️ **[pointsyeah-api](https://github.com/farzanariel/pointsyeah-api)** — Flight search CLI: points/miles awards vs. cash, side by side
+- 📑 **[ups-invoice-consolidator](https://github.com/farzanariel/ups-invoice-consolidator)** — Merge duplicate UPS tracking rows into single-row records
