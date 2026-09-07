@@ -1,6 +1,6 @@
-# Hi, I'm Ariel 👋
+# Hi, I'm Ariel 
 
-📍 **Los Angeles** | 🚢 **Founder, Nectan** | 🛠️ **Builds tools for problems I keep running into**
+📍 **Maryland** | 🚢 **Entrepreneur** | 🛠️ **Builds tools for problems I keep running into**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
